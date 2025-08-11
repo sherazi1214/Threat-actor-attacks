@@ -12,10 +12,15 @@ Ye sirf technical attack nahin hote — isme human galti, process ki kamzori, su
 
 ## Examples of Operational Threat Vectors
 ### Example----------------------------------------	English -------------------------------------- Urdu
+
 Phishing in business processes ------------	Trick employees into revealing credentials ------------	Employees ko dhoka dekar password ya info lena
+
 Insider Threat ----------------------	Employee intentionally leaks --------------------------data	Employee jaan bujh ke data leak kare
+
 Supply Chain Attack	-------------------Compromising a vendor to reach target----------------	Vendor ko hack karke main target pe attack karna
+
 Process Misconfigurations-----------------	Wrong settings in operations--------------------	Operations me settings ka ghalat hona
+
 Social Engineering in workflows	---------------Manipulating staff during routine tasks	-----------Routine kaam me staff ko manipulate karna
 
 ## Operational Threat Vectors: Impact – Cause – Response
